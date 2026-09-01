@@ -6,7 +6,6 @@
 Hey! Nice to see you 👋
 Welcome to my page!
 I'm a Data Scientist with an M.S background, former clinical researcher, and Health & Safety Coordinator. Currently based across Germany, turning complex data into actionable insights through Python and machine learning.
-
 After completing an intensive Data Science bootcamp at WBS Coding School, I now bridge the gap between complex datasets and actionable business or clinical insights using Python and Machine Learning.
 ---
 ## 🛠️ Skills & Tech Stack
@@ -151,3 +150,32 @@ Welcome to my page! I am a data-driven professional with an M.Sc. background and
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
 
+
+
+
+
+🧪 Languages
+Top Langs
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+# These charts are created using the code:
+ 
+![Your GitHub stats](&lt;https://github-readme-stats.vercel.app/api?username=yourusername&amp;show_icons=true&amp;theme=radical>)
+ 
+## <img draggable="false" role="img" class="emoji" alt="🔥" src="https://s.w.org/images/core/emoji/17.0.2/svg/1f525.svg"> Streak Stats
+ 
+![Streak](&lt;https://github-readme-streak-stats.herokuapp.com/?user=yourusername&amp;theme=radical>)
+ 
+## <img draggable="false" role="img" class="emoji" alt="🧪" src="https://s.w.org/images/core/emoji/17.0.2/svg/1f9ea.svg"> Languages
+ 
+![Top Langs](&lt;https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&amp;layout=compact>)
+👉 Explore Widgets
