@@ -67,11 +67,11 @@ Cloud & Collaboration Environments:
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-Dr Nighat Ahmad&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-DrNighatAhmad&show_icons=true&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-Dr Nighat Ahmad&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-DrNighatAhmad&layout=compact&theme=radical" />
 </p>
 
 ---
